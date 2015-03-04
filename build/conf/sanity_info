@@ -1,0 +1,3 @@
+SANITY_VERSION 1
+TMPDIR /home/peernohell/projects/yocto-builder/build/tmp
+SSTATE_DIR /home/peernohell/projects/yocto-builder/build/sstate-cache
